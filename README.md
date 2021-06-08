@@ -1,7 +1,7 @@
 # Statistical Learning Methods
 
 1. Competition Notebook
-*1.1. Github notebook Link: 
+* 1.1. Github notebook Link: 
 [Github Competition_Link](https://erickunix.github.io/slm/).
 
 *1.2. Colab notebook link: 
