@@ -1,10 +1,10 @@
 # Statistical Learning Methods
 
 1. Competition Notebook
-* 1.1. Github notebook Link: 
+* 1.1.Github notebook Link: 
 [Github Competition_Link](https://github.com/erickunix/slm/blob/main/lobo_hotels_prediction.ipynb).
 
-* 1.2. Colab notebook link: 
+* 1.2 Colab notebook link: 
 [Colab Competition_Link](https://colab.research.google.com/drive/1_nPhfAmVUCPKa-2JOwIefWkjX9RweG8C?usp=sharing).
 
 2. Exam Notebook
