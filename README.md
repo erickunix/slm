@@ -18,7 +18,7 @@
 3. Final Project 
 
 * 3.1) Github notebook Link: 
-[Github Project_Link](https://erickunix.github.io/slm/).
+[Github Project_Link](https://erickunix.github.io/slm/###).
 
 * 3.2) Colab notebook link: 
 [Colab Project_Link](https://colab.research.google.com/drive/1rfi1E8yliZfJ1hAGcMGZd0G0gyd6KolX?usp=sharing).
