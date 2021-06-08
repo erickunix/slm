@@ -10,16 +10,16 @@
 2. Exam Notebook
 
 * 2.1. Github notebook Link: 
-[Exam_Link](https://erickunix.github.io/slm/).
+[Github Exam_Link](https://erickunix.github.io/slm/).
 
 * 2.2. Colab notebook link: 
-[Exam_Link](https://erickunix.github.io/slm/).
+[Colab Exam_Link](https://erickunix.github.io/slm/).
 
 3. Final Project 
 
 * 3.1. Github notebook Link: 
-[Project_Link](https://erickunix.github.io/slm/).
+[Github Project_Link](https://erickunix.github.io/slm/).
 
 * 3.2. Colab notebook link: 
-[Exam_Link](https://erickunix.github.io/slm/).
+[Colab Project_Link](https://erickunix.github.io/slm/).
 
