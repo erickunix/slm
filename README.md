@@ -2,6 +2,7 @@
 
 1. Walmart Missing Values:[Github Competition_Link](https://github.com/erickunix/slm/blob/main/projectABA.ipynb). 
 
+2. Walmart Dataser: [Github Competition_Link](https://github.com/erickunix/slm/blob/main/Walmart_Store_sales.csv)
 
 
 
